@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab_REST</string>
+    <string name="title_activity_list_view">ActivityListView</string>
+</resources>
